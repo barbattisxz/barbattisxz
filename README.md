@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!! 👋<br><br>. Information and Communication Technology Student at FAETERJ<br><br>. Developer at Project Brisa | STEM Program (Serra TEC)<br><br>. Focused on Java, Vue.js, PostgreSQL, and AI with Tesseract OCR<br><br>. Passionate about Cloud Computing (Salesforce) Cybersecurity, Network Defense, and Secure Systems Development</p>
+<p align="left">Hello World!! 👋<br><br>. Information and Communication Technology Student at FAETERJ<br><br>. Developer at Project Brisa | STEM Program (Serra TEC)<br><br>. Focused on Java, Vue.js, PostgreSQL, and AI with Tesseract OCR<br><br>. Passionate about Cloud Computing (Salesforce), Cybersecurity, Network Defense, and Secure Systems Development</p>
 
 ###
 
@@ -48,6 +48,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/bernardo-machado-barbatti-20b05b273/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:bebarbatti@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
